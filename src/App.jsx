@@ -1,7 +1,7 @@
 import "./index.css";
 import TopProducts from "./components/TopProducts/TopProducts";
 import Banner from "./components/Banner/banner";
-import Hero from "./components/Hero/hero";
+import Hero from "./components/Hero/Hero";
 import AOS from "aos";
 import Products from "./components/Products/Products";
 import "aos/dist/aos.css";
